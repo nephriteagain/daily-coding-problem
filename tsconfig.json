@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./js",
+        "strict": true,
+        "lib": ["ES2015", "DOM"],
+        "module": "commonjs",   // Specify the module system (CommonJS for Node.js)
+        "esModuleInterop": true, // Enable/disable emitting of TypeScript helpers for import and export
+        "skipLibCheck": true,   // Skip type checking of declaration files
+    }
+}
