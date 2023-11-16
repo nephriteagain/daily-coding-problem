@@ -17,7 +17,7 @@ Implement car and cdr.
 type pair = [ a: any, b: any ]
 
 function cons(a:any,b:any) : pair {
-    return [a, b, ] 
+    return [a, b ] 
 }
 
 function car(cons: pair) {

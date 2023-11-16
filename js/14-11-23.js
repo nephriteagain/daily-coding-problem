@@ -15,7 +15,7 @@ def cons(a, b):
 Implement car and cdr.
  */
 function cons(a, b) {
-    return [a, b,];
+    return [a, b];
 }
 function car(cons) {
     return cons[0];
