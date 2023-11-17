@@ -43,4 +43,4 @@ console.log(numDecodings('111')); // Output: 3
 console.log(numDecodings('112'));
 console.log(numDecodings('1311'));
 console.log(numDecodings('132'));
-console.log(numDecodings('111111'));
+console.log(numDecodings('131551'));
