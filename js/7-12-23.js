@@ -23,6 +23,7 @@ and k = 16, you should return the following:
 "fox  jumps  over", # 2 extra spaces distributed evenly
 "the   lazy   dog"] # 4 extra spaces distributed evenly
  */
+// TODO
 (function () {
     function solution(sentence, k) {
         var res = [];
